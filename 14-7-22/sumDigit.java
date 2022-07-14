@@ -1,5 +1,5 @@
 import java.util.*;
-class sumDigit
+class SumDigit
 {
 public static void main(String arg[])
 	{
