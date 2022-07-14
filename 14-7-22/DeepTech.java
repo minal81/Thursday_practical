@@ -7,15 +7,15 @@ public static void main(String arg[])
 		{
 			  if(i%3==0 && i%5==0)
 				    {
-				      System.out.println("multiple by 3 Deep");
+				      System.out.println("multiple by 3 & 5 DeepTech");
 				    }
 			  else if(i%3==0)
 				    {
-				      System.out.println("multiple by 5 Tech");
+				      System.out.println("multiple by 3 Tech");
 				    }
 			  else if(i%5==0)
 				    {
-				      System.out.println("multiple by 3 & 5 DeepTech");
+				      System.out.println("multiple by  5 Tech");
 				    }
 			  else
 				   {
