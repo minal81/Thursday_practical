@@ -1,18 +1,18 @@
 import java.util.*;
-class number
+class Number
 {
 public static void main(String arg[])
 	{ 
 			Scanner s=new Scanner(System.in);
 			System.out.println("enter the number");
 			int num=s.nextInt();
-			if(num%2==0)
+			if(num<0)
 				{
-					System.out.println("number is positive");
+					System.out.println("number is negetive");
 				}
 			else
 				{
-					System.out.println("number is negetive");
+					System.out.println("number is positive");
 				}
 	}
 }
