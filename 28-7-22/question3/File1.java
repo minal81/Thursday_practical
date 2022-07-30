@@ -1,4 +1,5 @@
-
+//using file read the text file and 
+//using FileInputStream delete the starting 10 byte
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
