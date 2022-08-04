@@ -19,7 +19,7 @@
               countVowels++;
 
             }
-            else if (c=='z'||c=='b'||c=='t'||c=='h'||c=='g')
+            else
             {
               Consonants++;
 
