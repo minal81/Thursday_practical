@@ -1,0 +1,1 @@
+constructor is create when object is created and also constructor having same name as class name so another class cannot inherited
