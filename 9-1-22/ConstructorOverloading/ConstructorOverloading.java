@@ -5,12 +5,14 @@ class BaseClass
 }
 class DerivedClass extends BaseClass
 {
+	//overlaod base class Contructor
 	BaseClass()
 	{
 	
 		System.out.println("Constructor of  overloading base class");
 		
 	}
+	//derived class Constructor
 	DerivedClass()
 	{
 		System.out.println("Constructor of derived class");
