@@ -2,7 +2,7 @@ import java.io.*;
 
 class Rotation {
 	
-	public static void Rotation(int arr[], int r, int n)
+	public static void rotate(int arr[], int r, int n)
 	{
 		int p = 1;
 		while (p <= r) {
